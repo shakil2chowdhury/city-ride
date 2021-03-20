@@ -1,0 +1,22 @@
+.single-vehicle {
+    height: 225px;
+    width: 90%;
+    background-color: white;
+    text-align: center;
+    padding: 10% 0;
+    border-radius: 15px;
+    align-items: center;
+    justify-content: center;
+    box-shadow: rgba(114, 106, 106, 0.493) 2px 1px 5px;
+    margin-top: 10%;
+    cursor: pointer;
+}
+
+.single-vehicle > p {
+    font-size: 1.6rem;
+    padding-top: 3%;
+}
+
+.single-vehicle > img {
+    width: 150px;
+}

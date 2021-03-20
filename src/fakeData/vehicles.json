@@ -1,0 +1,6 @@
+[
+    {"id":1,"vehicle":"Bike","vehicleImg":"https://i.postimg.cc/fSn7wzqk/bike.png", "capacity": "1", "price": "67$"},
+    {"id":2,"vehicle":"Car","vehicleImg":"https://i.postimg.cc/N266F3ZD/car.png", "capacity": "1", "price": "67$"},
+    {"id":3,"vehicle":"Bus","vehicleImg":"https://i.postimg.cc/fkmj8dkd/bus.png", "capacity": "1", "price": "67$"},
+    {"id":4,"vehicle":"Train","vehicleImg":"https://i.postimg.cc/TpxjFPW4/train.png", "capacity": "1", "price": "67$"}
+]

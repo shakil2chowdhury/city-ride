@@ -1,0 +1,22 @@
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+header > img {
+    width: 200px;
+}
+
+.container {
+    padding: 2rem 5rem;
+}
+
+nav {
+    display: flex;
+    margin-right: 1.5rem;
+}
+
+nav > a {
+    margin-right: 1.5rem;
+    text-decoration: none;
+}

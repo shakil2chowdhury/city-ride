@@ -1,0 +1,58 @@
+.destination-body {
+    display: flex;
+    overflow: hidden;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.destination-sidebar {
+    background-color: rgba(255, 255, 255, 0.404);
+    padding: 2rem;
+    border-radius: 15px;
+    width: 100%;
+}
+
+.destination-sidebar input {
+    margin-top: 5%;
+    width: 100%;
+    height: 2rem;
+    padding: 1rem;
+}
+
+.destination-map {
+    width: 100%;
+    margin-right: 10%;
+    
+}
+
+.destination-map img {
+    height: 400px;
+    width: 600px;
+}
+
+.destination-final {
+    background-color: orangered;
+    padding: 1rem 2rem;
+    border-radius: 15px;
+    font-size: 20px;
+    color: white;
+}
+
+.available-rides {
+    margin-top: 1.5rem;
+    padding: 1rem;
+    background-color: white;
+    display: flex;
+    border-radius: 15px;
+    font-size: 20px;
+
+}
+
+.available-rides img {
+    width: 3.5rem;
+    margin-right: 1rem;
+}
+
+.available-rides p {
+    margin-left: 1rem;
+}
